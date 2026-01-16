@@ -23,7 +23,7 @@ function Navbar() {
               </svg>
             </div>
           </div>
-          <a className="btn btn-ghost rounded-3xl text-xl">daisyUI</a>
+          <a className="btn btn-ghost rounded-3xl text-xl">TaskPro</a>
         </div>
         <div className="navbar-end">
           <a href="/create" className="btn rounded-2xl">Add Task</a>
